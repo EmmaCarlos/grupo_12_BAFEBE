@@ -25,11 +25,16 @@ BAFEBE es una pagina con el servicio de venta de entrada a eventos, shows en viv
 <ul>  
   <li><a href="https://www.mercadolibre.com.ar/" >Mercado Libre</a>: Esta es una página modelo a seguir en función que hoy en día es de las más importante, no solamente a nivel nación, sino de toda Latinoamérica, tener en cuenta el uso que tienen de la tipografía, logo, colores, detalle del carrito, etc. son factores que se debera de tener en cuenta</li>
 </ul>
-
-  <li><a href="https://www.ticketek.com.ar/websource/auth/signup/" >EntradasFun</a>: El registro de esta página resulta ser mas adecuado ya que se necesita un poco de seriedad al momento de registro sobre todo el mencionar que cuenta con una ley para la protección de datos personales. </li>
+ <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_DETALLE_CARRITO_PRODUCTO_ticketportal.png" alt="TicketPortal"></a>
+<ul> 
+ <li><a href="https://www.ticketek.com.ar/websource/auth/signup/" >EntradasFun</a>: El registro de esta página resulta ser mas adecuado ya que se necesita un poco de seriedad     al momento de registro sobre todo el mencionar que cuenta con una ley para la protección de datos personales. </li>
+</ul>
+<ul>  
   <li><a href="https://tuentrada.com/autenticacion/ingresar/" >TuEntrada.com</a>: Se utilizara esta pagina como modelo a tener en cuenta para el inicio de sesión por su simplicidad ya que al momento de inicar sesion no hace falta tener tantas configuración o efectos visuales.</li></ul>
+</ul>  
   <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_INICIO_DE_SESION_TUENTRADA.COM.png" al="tuentrada.com"></a>
-  
+
+
 **Publico Objetivo**
 
 La Pagina estara destinada a todo el público en general, esto a fin de que pueda abarcar tanto menores de edad como así también personas jóvenes/adultas que quieran comprar entradas para ver por streaming a sus artistas favoritos a quienes admiran o siguen por las redes sociales.
