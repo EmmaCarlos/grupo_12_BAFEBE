@@ -25,7 +25,7 @@ BAFEBE es una pagina con el servicio de venta de entrada a eventos, shows en viv
 <ul>  
   <li><a href="https://www.mercadolibre.com.ar/" >Mercado Libre</a>: Esta es una página modelo a seguir en función que hoy en día es de las más importante, no solamente a nivel nación, sino de toda Latinoamérica, tener en cuenta el uso que tienen de la tipografía, logo, colores, detalle del carrito, etc. son factores que se debera de tener en cuenta</li>
 </ul>
- <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_DETALLE_CARRITO_PRODUCTO_ticketportal.png" alt="TicketPortal"></a>
+ <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_MERCADO_LIBRE.png" alt="TicketPortal"></a>
 <ul> 
  <li><a href="https://www.ticketek.com.ar/websource/auth/signup/" >EntradasFun</a>: El registro de esta página resulta ser mas adecuado ya que se necesita un poco de seriedad     al momento de registro sobre todo el mencionar que cuenta con una ley para la protección de datos personales. </li>
 </ul>
