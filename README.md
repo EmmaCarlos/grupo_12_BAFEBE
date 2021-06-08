@@ -1,6 +1,6 @@
 # BAFEBE Ticketfun
 
-**Sobre nosotos**
+**Sobre la Pagina**
 
 BAFEBE es una pagina con el servicio de venta de entrada a eventos, show en vivo, recitales sobre streming. Estara enfocado al publico en general esto en razon que al cubrir evento/espetaculo de cualquier tema ya sea musical, freestyle , humoristico, etc, hara que el sitio pueda escalar sin ninguna dificultad.
 
