@@ -8,7 +8,7 @@ BAFEBE es una pagina con el servicio de venta de entrada a eventos, shows en viv
 
 <ul>
   <li>Tiago Bareiro: "Tengo 22 años y vivo en CABA. Trabajo en el sector de redes sociales y venta ecommerce de una Pyme dedicada a la venta de autopartes. En mis tiempos libres me gusta informarme sobre la computación, tanto hardware y como software; aprender a tocar la guitarra y el piano, y sobre todo a jugar videojuegos." </li>  
-  <li>Carlos Benitez: mi nombre es Carlos, tengo 30 años, vivo en Ciudad Autónoma de Buenos Aires, trabajo en el ámbito de las Fuerzas Federales mas precisamente Gendarmería, en la cual me dedico exclusivamente en el área de Telecomunicaciones e Informática, soy Antenista/Torrista con un curso de Operador VANT/DRONES (poseo uno), me apasiona el mundo del hacking con el cual hago constantes laboratorios del mismo, hice el curso a fin de cambiar de empleo y así también desarrollar para bien mi punto débil que es la programación</li>
+  <li>Carlos Benitez: mi nombre es Carlos, tengo 30 años, vivo en Ciudad Autónoma de Buenos Aires, trabajo en el ámbito de las Fuerzas Federales mas precisamente Gendarmería, en la cual me dedico exclusivamente en el área de Telecomunicaciones e Informática, soy Antenista/Torrista con un curso de Operador VANT/DRONES (poseo uno), me apasiona el mundo del hacking con el cual hago constantes laboratorios del mismo, hice el curso a fin de cambiar de empleo y así también desarrollar para bien mi punto débil que es la programación.</li>
   <li>Luciano Ferreira: "descripción "</li>
 </ul>
 
