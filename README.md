@@ -12,3 +12,12 @@ BAFEBE es una pagina con el servicio de venta de entrada a eventos, show en vivo
   <li>Luciano Ferreira: "descripcion "</li>
 </ul>
 
+**Sitios de Referencia**
+
+<ul> 
+  <li><a href="https://www.mercadolibre.com.ar/" >Mercado Libre</a>: Esta es una pagina modelo a seguir en funcion que hoy en dia es de las mas importante, no solamente a nivel nacion, sino de toda Lationamerica, tener en cuenta el uso que tienen de la tipografia, logo, colores, detalle del carrito, etc. son factores que se debera de tener en cuenta</li>
+  <li><a href="https://www.entradafan.com.ar/" >EntradasFun</a>: Esta es una </li>
+  <li><a href="https://www.entradafan.com.ar/" >EntradasFun</a>: Esta es una </li>
+  <li><a href="https://www.entradafan.com.ar/" >EntradasFun</a>: Esta es una </li>
+  <li><a href="https://www.entradafan.com.ar/" >EntradasFun</a>: Esta es una </li>
+</ul>
