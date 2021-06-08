@@ -29,6 +29,7 @@ BAFEBE es una pagina con el servicio de venta de entrada a eventos, shows en viv
 <ul> 
  <li><a href="https://www.ticketek.com.ar/websource/auth/signup/" >EntradasFun</a>: El registro de esta página resulta ser mas adecuado ya que se necesita un poco de seriedad     al momento de registro sobre todo el mencionar que cuenta con una ley para la protección de datos personales. </li>
 </ul>
+<a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_REGISTRO_TICKETEKo.png" al="tuentrada.com"></a>
 <ul>  
   <li><a href="https://tuentrada.com/autenticacion/ingresar/" >TuEntrada.com</a>: Se utilizara esta pagina como modelo a tener en cuenta para el inicio de sesión por su simplicidad ya que al momento de inicar sesion no hace falta tener tantas configuración o efectos visuales.</li></ul>
 </ul>  
