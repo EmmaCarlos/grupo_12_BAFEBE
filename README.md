@@ -15,7 +15,7 @@ BAFEBE es una pagina con el servicio de venta de entrada a eventos, show en vivo
 **Sitios de Referencia**
 
 <ul> 
-  <li><a href="https://www.entradafan.com.ar/" >TuEntrada.com</a>: Utilizaremos este pagina para el modelo del Home como así también el uso de los colores para que la pagina que creemos tenga una vista dinámica, viva con colores fluido para bridar al cliente deseo de navegar por el sitio</li>
+  <li><a href="https://www.entradafan.com.ar/" >TuEntrada.com</a>: Utilizaremos este pagina para el modelo del Home como así también el uso de los colores para que la pagina que creemos tenga una vista dinámica, viva con colores fluido para bridar al cliente deseos de navegar por el sitio</li>
   <li><a href="https://lunapark.ticketportal.com.ar/event?p=CD91D107384453217529DDFDDAD726A767B86BDFD1504539" >TicketPortal</a>: Tiene buenos detalles en cuanto a la selección del lugar en donde estará ubicado como así también la diferencia de precio de los mismo</li>
   <li><a href="https://www.mercadolibre.com.ar/" >Mercado Libre</a>: Esta es una página modelo a seguir en función que hoy en día es de las más importante, no solamente a nivel nación, sino de toda Latinoamérica, tener en cuenta el uso que tienen de la tipografía, logo, colores, detalle del carrito, etc. son factores que se debera de tener en cuenta</li>
   <li><a href="https://www.ticketek.com.ar/websource/auth/signup/" >EntradasFun</a>: El registro de esta página resulta ser mas adecuado ya que se necesita un poco de seriedad al momento de registro sobre todo el mencionar que cuenta con una ley para la protección de datos personales. </li>
