@@ -2,7 +2,7 @@
 
 **Sobre la Pagina**
 
-BAFEBE es una pagina con el servicio de venta de entrada a eventos, shows en vivo, recitales en streaming. Estará enfocado al público en general, entendiendo que al cubrir evento/espetaculo de cualquier tema ya sea musical, freestyle , humoristico, etc, hara que el sitio pueda escalar sin ninguna dificultad.
+**BAFEBE** es una pagina con el servicio de venta de entrada a eventos, shows en vivo, recitales en streaming. Estará enfocado al público en general, entendiendo que al cubrir evento/espetaculo de cualquier tema ya sea musical, freestyle , humoristico, etc, hara que el sitio pueda escalar sin ninguna dificultad.
 
 **Desarrolladores**
 
