@@ -22,23 +22,23 @@ Estará enfocado al público en general, entendiendo que al cubrir evento/espeta
 <ul> 
   <li><a href="https://www.entradafan.com.ar/" >TuEntrada.com</a>: Utilizaremos este pagina para el modelo del Home como así también el uso de los colores para que la pagina que creemos tenga una vista dinámica, viva con colores fluido para bridar al cliente deseos de navegar por el sitio.</li>
 </ul>
-  <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_HOME_TUENTRADAFANo.png" alt="ENTRADASFAN"></a>
+  <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/public/img/BAFEBE_HOME_TUENTRADAFANo.png" alt="ENTRADASFAN"></a>
 <ul> 
   <li><a href="https://lunapark.ticketportal.com.ar/event?p=CD91D107384453217529DDFDDAD726A767B86BDFD1504539" >TicketPortal</a>: Tiene buenos detalles en cuanto a la selección del lugar en donde estará ubicado como así también la diferencia de precio de los mismo</li>
 </ul>
-  <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_DETALLE_CARRITO_PRODUCTO_ticketportal.png" alt="TicketPortal"></a>
+  <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/public/img/BAFEBE_DETALLE_CARRITO_PRODUCTO_ticketportal.png" alt="TicketPortal"></a>
 <ul>  
   <li><a href="https://www.mercadolibre.com.ar/" >Mercado Libre</a>: Esta es una página modelo a seguir en función que hoy en día es de las más importante, no solamente a nivel nación, sino de toda Latinoamérica, tener en cuenta el uso que tienen de la tipografía, logo, colores, detalle del carrito, etc. son factores que se debera de tener en cuenta</li>
 </ul>
- <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_MERCADO_LIBRE.png" alt="TicketPortal"></a>
+ <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/public/img/BAFEBE_MERCADO_LIBRE.png" alt="TicketPortal"></a>
 <ul> 
  <li><a href="https://www.ticketek.com.ar/websource/auth/signup/" >EntradasFun</a>: El registro de esta página resulta ser mas adecuado ya que se necesita un poco de seriedad     al momento de registro sobre todo el mencionar que cuenta con una ley para la protección de datos personales. </li>
 </ul>
-<a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_REGISTRO_TICKETEKo.png" al="tuentrada.com"></a>
+<a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/public/img/BAFEBE_REGISTRO_TICKETEKo.png" al="tuentrada.com"></a>
 <ul>  
   <li><a href="https://tuentrada.com/autenticacion/ingresar/" >TuEntrada.com</a>: Se utilizara esta pagina como modelo a tener en cuenta para el inicio de sesión por su simplicidad ya que al momento de inicar sesion no hace falta tener tantas configuración o efectos visuales.</li></ul>
 </ul>  
-  <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/img/BAFEBE_INICIO_DE_SESION_TUENTRADA.COM.png" al="tuentrada.com"></a>
+  <a><img src="https://github.com/EmmaCarlos/grupo_12_BAFEBE/blob/main/public/img/BAFEBE_INICIO_DE_SESION_TUENTRADA.COM.png" al="tuentrada.com"></a>
 
 
 **Publico Objetivo**
