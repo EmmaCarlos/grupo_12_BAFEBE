@@ -1,0 +1,17 @@
+header {
+    background-color: black;
+    display: inline-block;
+    width: 100%;
+
+}
+
+.logo {
+    display: inline-block;
+    height: 150px;
+}
+
+.cuotas {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+}
