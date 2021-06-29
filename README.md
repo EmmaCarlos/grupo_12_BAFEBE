@@ -47,7 +47,7 @@ La Pagina estara destinada a todo el público en general, esto a fin de que pued
 
 
 <a>
-  <img src="https://emmcarlos.monday.com/boards/1363958878/" alt="**Taablero de Tareas en Monday.com**"> 
+  <img src="https://emmcarlos.monday.com/boards/1363958878/" alt="Taablero de Tareas en Monday.com"> 
 </a>
 
 
