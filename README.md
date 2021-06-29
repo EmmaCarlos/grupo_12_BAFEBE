@@ -45,13 +45,14 @@ Estará enfocado al público en general, entendiendo que al cubrir evento/espeta
 
 La Pagina estara destinada a todo el público en general, esto a fin de que pueda abarcar tanto menores de edad como así también personas jóvenes/adultas que quieran comprar entradas para ver por streaming a sus artistas favoritos a quienes admiran o siguen por las redes sociales.
 
+**Tablero de Tareas en Monday.com**
 <ul>  
-  <li><a href="https://emmcarlos.monday.com/boards/1363958878/" alt="Tablero de Tareas en Monday.com">Tablero de Tareas en Monday.com</a>
+  <li><a href="https://emmcarlos.monday.com/boards/1363958878/" alt="Tablero de Tareas en Monday.com">Monday.com</a>
   </li>
 </ul>  
 
 **Pagina BAFEBE by Heroku**
 <ul>  
-  <li><a href="https://bafebe-ticketfun.herokuapp.com/" alt="pagina heroku BAFEBE">Link a la Pagina de BAFEBE en plataforma HEROKU</a>
+  <li><a href="https://bafebe-ticketfun.herokuapp.com/" alt="pagina heroku BAFEBE">Link BAFEBE HEROKU</a>
   </li>
 </ul>  
