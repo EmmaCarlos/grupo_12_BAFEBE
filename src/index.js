@@ -1,9 +1,11 @@
 const express = require('express');
 const app = express();
 const path = require('path');
-const use = require('./routes/web');
 
-app.listen(4040, ()=> console.log('Server on http://localhost:4040'));
+app.set("port",process.env.PORT || 4040)
+
+//server 
+app.listen(app.get("port"), () => console.log("Server Start on http://localhost:"+app.get("port")));
 
 app.use(express.static(path.resolve(__dirname, '../public')));
 
