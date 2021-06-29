@@ -45,6 +45,7 @@ Estará enfocado al público en general, entendiendo que al cubrir evento/espeta
 
 La Pagina estara destinada a todo el público en general, esto a fin de que pueda abarcar tanto menores de edad como así también personas jóvenes/adultas que quieran comprar entradas para ver por streaming a sus artistas favoritos a quienes admiran o siguen por las redes sociales.
 
+
 **Tablero de Tareas en Monday.com**
 <ul>  
   <li><a href="https://emmcarlos.monday.com/boards/1363958878/" alt="Tablero de Tareas en Monday.com">Monday.com</a>
