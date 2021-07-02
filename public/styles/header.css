@@ -1,29 +1,19 @@
-header {
-    background-color: grey;
+.header_top{
     display: flex;
+    margin-bottom: 2vh;
+}
+.logo{
+    width: 30%;
+    float: left;
+}
+a img{
     width: 100%;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-
 }
-
-.logo {
-    display: flexbox;
-    height: 150px;
+.caja_formulario{
+    display: flex;
+    padding-left: 23vw;
 }
-
-.cuotas {
-    display: flexbox;
-    font-size: 14px;
-    font-weight: bold;
-}
-
-.lista {
-    color: snow;
-}
-
-.lista#li {
-    background-color: black;
-    text-decoration: none;
+.caja_formulario h2{
+    margin: auto;
+    width: 100%;
 }
