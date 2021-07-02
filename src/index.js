@@ -2,11 +2,17 @@ const express = require('express');
 const app = express(); 
 const path = require('path');
 
+// App Server
 app.set("port",process.env.PORT || 4040)
-
-//server 
 app.listen(app.get("port"), () => console.log("Server Start on http://localhost:"+app.get("port")));
 
+//App Acces Public 
 app.use(express.static(path.resolve(__dirname, '../public')));
 
-app.use(require('./routes/web'));
+//App Settings
+
+//App Middlewares
+
+//App Routes
+const main= require('./routes/main')
+app.use(main);
