@@ -1,19 +1,80 @@
-.header_top{
-    display: flex;
-    margin-bottom: 2vh;
+.banner-msg{
+    background-color: #F2F2F2;
+    color: #484b52;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding: 4px;
+    text-align: center;
+    width: 100%;
 }
-.logo{
-    width: 30%;
+.top-bar{    
+    background-color: #fff;
+    width: 100%;
+    box-shadow: 0 0 12px 0 rgb(4 4 4 / 40%);    
+}
+
+
+
+.logo {
+    width: 100%;
+}
+.caja-img{
+    width: 25%;
+    margin: auto;
+}
+.caja-derecha{
+    display: none;
+}
+.compra-en-cuotas{
+    display: none;
+}
+
+
+.caja-header article{
+    display: block;
     float: left;
 }
-a img{
-    width: 100%;
+
+.lista li a{
+    color: #ffc660 ;
 }
-.caja_formulario{
+.lista li{
+    
+    color: white;
+    margin-top: 1vh;
+
+}
+
+
+@media (min-width: 768px){
+.caja-derecha{
+    width: 19%;
+    background-color:;
+    align-items: center;
+    border-radius: 0.4rem;
+}
+.compra-en-cuotas{
+    
+    font-size: ;
+    color: #ffc660;
+    justify-content: center;
+    width: 56%;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.caja-header{
     display: flex;
-    padding-left: 23vw;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:black;
 }
-.caja_formulario h2{
-    margin: auto;
-    width: 100%;
+
 }

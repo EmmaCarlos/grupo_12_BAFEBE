@@ -10,9 +10,9 @@ app.listen(app.get("port"), () => console.log("Server Start on http://localhost:
 app.use(express.static(path.resolve(__dirname, '../public')));
 
 //App Settings
-
+app.set('views engine', 'ejs');
 //App Middlewares
 
 //App Routes
-const main= require('./routes/main')
+const main= require('./routes/main');
 app.use(main);

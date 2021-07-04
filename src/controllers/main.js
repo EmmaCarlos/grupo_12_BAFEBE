@@ -2,7 +2,7 @@
 const path = require('path')
 
 module.exports= {
-    index:(req,res)=> res.sendFile(path.resolve(__dirname,"../views","index.html")),
-    register:(req,res) => res.sendFile(path.resolve(__dirname,"../views","register.html")),
-    login:(req,res)=> res.sendFile(path.resolve(__dirname,"../views","login.html"))
+    index:(req,res)=> res.render(path.resolve(__dirname,"../views","index.ejs")),
+    register:(req,res) => res.render(path.resolve(__dirname,"../views","register.ejs")),
+    login:(req,res)=> res.render(path.resolve(__dirname,"../views","login.ejs"))
 }

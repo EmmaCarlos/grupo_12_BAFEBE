@@ -1,0 +1,39 @@
+footer{
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+}
+footer .suscribe{
+    border: red 3px solid;
+    background: #3d95de;
+    color: #fff;
+    padding: 1em 0;
+    float: left;
+    width: 100%;
+}
+footer .pages{
+    border: springgreen 3px solid;
+    background: #3d95de;
+    color: #fff;
+    padding: 1em 0;
+    float: left;
+    width: 100%;
+}
+footer .payments{
+    border: #2bbf82 3px solid;
+    background: #2a313e;
+    color: #fff;
+    float: left;
+    width: 100%;
+}
+footer .copy{
+    border: #17a317 3px solid;
+    background: #232d37;
+    padding: 1.5em 2em;
+    color: #465768;
+    font-size: 12px;
+    text-align: center;
+    line-height: 2;
+    float: left;
+    width: 100%;
+}

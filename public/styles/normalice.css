@@ -1,5 +1,5 @@
 * {
-    margin:0px;
+    
     padding: 0px;
     box-sizing: border-box ;
 }
@@ -10,9 +10,11 @@ html{
     width: 100vw;
 }
 body{
-    margin:0;
-    font-family: "Roboto", sans-serif;
-    background-color: #ebebeb;
+    font-family: open sans,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333;
+    background-color: #f6f8f9;
 }
 main{
     display: block;

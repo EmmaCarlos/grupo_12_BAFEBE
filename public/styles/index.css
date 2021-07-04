@@ -1,0 +1,45 @@
+.main-search{
+    border: rgb(65, 44, 141) 1px solid;
+    z-index: 10;
+    position: relative;
+    display: inline-block;
+    width: 88%;
+    margin: 0 6%;
+    padding: 2em 0;
+}
+.input-group{
+    display: table;
+    border-collapse: separate;
+}
+.seccion1Main{
+    background: url(https://d11ew2uwv5qi1a.cloudfront.net/VistasNew/images/backgrounds/background_recitales-blue.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 center!important;
+    float: left;
+    width: 100%;
+    position: relative;
+}
+.spacer-module{
+    padding: 3em 0;
+    background: #fff;
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+
+.seccion5Main{
+    background: #fff;
+    padding: 3em 0;
+    float: left;
+    width: 100%;
+    color: #737373;
+    border-bottom: 6px solid #e43432;
+}
+.index{
+    background: #fff;
+    padding: 3em 0;
+    float: left;
+    width: 100%;
+    color: #737373;
+    border-bottom: 6px solid #e43432;
+}

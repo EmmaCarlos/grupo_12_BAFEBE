@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include('./partials/head'); %>
+<body>
+    <%- include('./partials/header'); %>    
+    <section>
+        <div class="container no-padding">
+            <div class="col-xs-10 no-padding">
+                <secti                 on>
+                    <div>
+                        <div>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium voluptas rerum voluptatem omnis dicta perferendis quisquam quaerat eligendi quasi obcaecati velit est, natus consectetur unde odio iusto animi delectus.</p>
+                        </div>
+                    <div>
+                        <form id="signup_form" method="POST"  action="/">
+                            <div class="row">
+                                <div>
+                                    <article>   
+                                        <input type="text" id="nombre" name="nombre" 
+                                            placeholder="Nombre" required>
+                                            <span class="validity"></span>
+                                    </article>
+                                    <article>
+                                        <input type="text" id="apellido" name="apellido" 
+                                            placeholder="apellido" required>
+                                            <span class="validity"></span>
+                                    </article>
+                                    <article>
+                                        <input type="number" name="dni" id="dni"
+                                            placeholder="Documento Nacional de Identificación">
+                                    </article>
+                                    <article>
+                                        <input type="email" name="email" id="email"
+                                        placeholder="E-mail">
+                                    </article>
+                                    <article>
+                                        <p>Fecha de nacimiento</p>
+                                        <label>
+                                            <input type="date" id="date" name="date">
+                                        </label><br>
+                                             
+                                    </article>
+                                </div>
+                                <div>
+                                    <article>
+                                        <label for="domicilio"></label>
+                                            <input type="text" name="domicilio" id="domicilio" 
+                                            placeholder="Domicilio"> 
+                                    </article>
+                                    <fieldset>
+                                        <input type="password" placeholder="Password" id="password" required>
+                                        <input type="password" placeholder="Confirm Password" id="confirm_password" required>
+                                        <button type="submit" class="pure-button pure-button-primary">Confirm</button>
+                                    </fieldset>
+                                    <article>
+                                        <button></button>
+                                    </article>
+                                    <article>
+                                        <button></button>
+                                    </article>
+                                </div>
+                            </div>   
+                        </form>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</section>
+<main>
+        <article>
+            <figure>logo</figure>
+        </article>
+        <article>
+            <fieldset>
+                <p>Metodos de pago</p>
+                <a href=""></a>
+                <a href=""></a>
+                <a href=""></a>
+                <a href=""></a>
+                <a href=""></a>
+            </fieldset>
+        </article>
+        <article>
+            <p>Enlaces de Interes</p>
+        </article>
+        <article>
+            <p>Contacto y Ubicacion</p>
+        </article>
+    </main>
+</body>
+</html>
