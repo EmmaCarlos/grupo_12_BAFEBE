@@ -10,7 +10,10 @@
 .top-bar{    
     background-color: #fff;
     width: 100%;
-    box-shadow: 0 0 12px 0 rgb(4 4 4 / 40%);    
+    box-shadow: 0 0 12px 0 rgb(4 4 4 / 40%);
+    position: relative;
+    z-index: 10000;
+    min-height: 60px; 
 }
 
 
@@ -39,7 +42,6 @@
     color: #ffc660 ;
 }
 .lista li{
-    
     color: white;
     margin-top: 1vh;
 
@@ -66,7 +68,6 @@
 
 .caja-header{
     display: flex;
-    margin-bottom: 1rem;
     justify-content: space-between;
     align-items: center;
     padding-right: 1rem;
