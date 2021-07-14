@@ -1,5 +1,84 @@
 
-.logo{
+.cuadro form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #ebebeb;
+    padding-bottom: 2vh;
+    margin-top: 2vh;
+  }
+  #forma article{
+    max-width: 70vw;
+    width: 80%;
+    margin-top: 3vh;
+  } 
+  #forma article input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0 solid;
+    max-width: 700px;
+    margin: 0px 10px;
     float: left;
-    width: 30%;
-}
+    width: 36%;
+  }
+  .texto#fecha_nacimiento{
+    margin-bottom: 20px;
+  }
+  .fecha_nacmiento_date{
+    margin-top: 2vh;
+    
+  }
+  .fecha_nacimiento input{
+    margin-top: 20px;
+    float: left;
+  }
+  
+  #perfil-de-usuario{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .tipo_usuario{
+    display: flex;
+      justify-content: center;
+      max-width: 110px;
+      width: 50%;
+  }
+  .inter{
+    display: flex;
+      flex-wrap: wrap;
+  }
+  
+  .intereses{
+    display: flex;
+      flex-wrap: wrap;
+      width: 53%;
+      margin: 10px 0px;
+  }
+  
+  
+  
+  
+  .texto{
+    float: left;
+    width: 100%;
+      font-weight: bold;
+      margin: 2vh 0;
+  }
+  .boton-registro{
+    display: flex;
+    width: 80%;
+    align-items: baseline;
+    margin-top: 10px;
+    flex-direction: column;
+  }
+  .boton-registro button{
+    margin-top: 20px
+  }
+  
+  @media (min-width:320){
+  .input_intereses{
+    width: 8%;
+  }
+  }

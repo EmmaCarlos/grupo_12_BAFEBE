@@ -51,13 +51,13 @@
 @media (min-width: 768px){
 .caja-derecha{
     width: 19%;
-    background-color:;
+    
     align-items: center;
     border-radius: 0.4rem;
 }
 .compra-en-cuotas{
     
-    font-size: ;
+    
     color: #ffc660;
     justify-content: center;
     width: 56%;

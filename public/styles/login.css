@@ -1,3 +1,29 @@
-a img{
+
+main form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #ebebeb;
+    padding-bottom: 30px;
+}
+.barra{
+    width: 80%;
+    margin-top: 3vh;
+    max-width: 65vw;
+}
+.barra input{
     width: 100%;
+    padding: 0.8rem;
+    border-radius: 4px;
+    border: 0;
+}
+
+.barra button{
+    padding: 0.7rem;
+    border: 0px;
+    border-radius: 5px;
+    width: 100%;
+    font-weight: bold;
+    background-color: #1361d6;
+    color: #ebebeb;
 }
